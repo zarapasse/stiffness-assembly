@@ -39,11 +39,11 @@ The goal is clarity, correctness, and traceability — not performance.
 
 The assembly follows the classical rule:
 
-\[
+$$
 K_{IJ} \;{+}{=}\; k^{(e)}_{ab}
 \quad\text{where}\quad
 I = C_{e,a},\; J = C_{e,b}
-\]
+$$
 
 - `C` is the **connectivity (LM) matrix**
 - `0` entries indicate constrained / inactive DOFs
